@@ -4,5 +4,5 @@
         "namespace"         :"HelloWorld",
         "author"            :"Sascha Holfeld",
         "type"              :"template",
-        "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+        "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider",
     }
